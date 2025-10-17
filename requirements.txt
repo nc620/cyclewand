@@ -1,0 +1,20 @@
+# Core data tools
+pandas
+numpy
+
+# Geospatial stack
+geopandas
+shapely
+fiona
+pyproj
+rasterio
+rtree
+
+# API and network requests
+requests
+
+# Visualization and notebooks
+matplotlib
+jupyter
+notebook
+folium          #for interactive maps
